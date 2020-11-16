@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is great Stream",
+      "id": 1
+    },
+    {
+      "title": "stream 2",
+      "description": "description for second",
+      "id": 2
+    },
+    {
+      "title": "Programatic navigation",
+      "description": "Redirection will work now!",
+      "id": 7
+    }
+  ]
+}
